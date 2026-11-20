@@ -1,0 +1,1 @@
+# Assignment CO5\n\nCO5: CSV cleaning, SQLite queries, data processing, profiling and simple AI text analysis. Run each TaskXX_*.py file separately.\n

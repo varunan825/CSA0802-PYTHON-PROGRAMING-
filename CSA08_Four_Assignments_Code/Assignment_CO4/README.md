@@ -1,0 +1,1 @@
+# Assignment CO4\n\nCO4: File processing, Decimal, exception handling, logging concepts, modules and registration validation. Run each TaskXX_*.py file separately.\n
